@@ -1,0 +1,9 @@
+global-styling:
+  version: VERSION
+  css:
+    base:
+      css/vre_upei_d8.css: {}
+global-scripts:
+  version: VERSION
+  js:
+    js/scripts.js: {}
